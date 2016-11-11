@@ -1,0 +1,2 @@
+# LeanClojure
+Lean Clojure project
